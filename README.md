@@ -1,7 +1,7 @@
 # quicksand
 
 A more modern skin for Bugzilla (compatible with realease 4.4.x).
-Originaly, I've forged "bz-sandstone"
+Originaly, I've forked "bz-sandstone"
 
 <img src="http://i.imgur.com/hLWwe0f.png">
 
