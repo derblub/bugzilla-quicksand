@@ -1,3 +1,5 @@
+**Not maintained! Go to [userstyles.org](https://userstyles.org/styles/browse?search_terms=bugzilla) for themes.**
+
 quicksand
 ======
 
